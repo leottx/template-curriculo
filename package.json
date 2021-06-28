@@ -1,0 +1,14 @@
+{
+  "name": "curriculo",
+  "version": "1.0.0",
+  "description": "Curriculo profissional",
+  "main": "index.js",
+  "scripts": {
+    "build": "sass ./src/style.scss ./dist/style.css"
+  },
+  "author": "Leonardo Teixeira",
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "^1.32.11"
+  }
+}
