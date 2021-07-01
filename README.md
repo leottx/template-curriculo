@@ -1,7 +1,7 @@
 # Template de currílo para profissionais de TI.
 
 - Clone o repositório localmente
-- Rode NPM init para instalar as dependências
+- Rode NPM install para instalar as dependências
   - Caso o NPM não esteja instalado, vá até a página do [Node.js](https://nodejs.org/en/download/), baixe a respectiva versão LTS do seu sistema e instale.
   - Após instalados, rode os comandos abaixo e veja se a versão do node e da npm são exibidas no console. Caso sim, a instalação foi efetivada com sucesso.
     ```bash
