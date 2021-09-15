@@ -1,5 +1,7 @@
 # Template de currílo para profissionais de TI.
 
+<img src="./src/exemplo-template.png" align="cente"/>
+
 - Clone o repositório localmente
 - Rode `npm install` para instalar as dependências
   **Observação:**
