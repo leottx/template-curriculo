@@ -10,4 +10,4 @@
     ```bash
       npm -v
     ```
-- Instale a extensão _live sass_ no vscode para compilar o arquivo .scss em css.
+- Rode o comando `npm run start` para compilar o arquivo sass

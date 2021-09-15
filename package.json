@@ -4,11 +4,14 @@
   "description": "Curriculo profissional",
   "main": "index.js",
   "scripts": {
-    "build": "sass ./src/style.scss ./dist/style.css"
+    "watch": "sass --watch ./src/style.scss ./src/style.css",
+    "serve": "live-server ./src --port=8080 --open",
+    "start": "npm run watch & npm run serve"
   },
   "author": "Leonardo Teixeira",
   "license": "ISC",
   "devDependencies": {
+    "live-server": "^1.2.1",
     "sass": "^1.32.11"
   }
 }
