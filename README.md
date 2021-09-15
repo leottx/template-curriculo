@@ -3,8 +3,7 @@
 <img src="./src/exemplo-template.png" align="cente"/>
 
 - Clone o repositório localmente
-- Rode `npm install` para instalar as dependências
-  **Observação:**
+- Rode `npm install` para instalar as dependências <br> **Observação:**
   - Caso o NPM não esteja instalado, vá até a página do [Node.js](https://nodejs.org/en/download/), baixe a respectiva versão LTS do seu sistema e instale.
   - Após instalados, rode os comandos abaixo e veja se a versão do node e da npm são exibidas no console. Caso sim, a instalação foi efetivada com sucesso.
     ```bash
